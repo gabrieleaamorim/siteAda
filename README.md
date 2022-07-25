@@ -1,4 +1,4 @@
-# Site Ada Lovalave
+# Site Ada Lovalace
 Projeto "Site da Ada Lovelace" do curso Eu programo, disponibilizado pela Programaria.
 
 Site criado com o propósito de aprender algumas propriedades básicas do HTML, CSS e JS, no curso Eu Programo ministrado pela Programaria.
